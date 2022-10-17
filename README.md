@@ -1,2 +1,3 @@
-# e-commerce
- Diagrama Relacional para e-commerce
+# E-commerce EER
+![EER](/e-commerce.svg)
+
